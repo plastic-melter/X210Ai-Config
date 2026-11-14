@@ -75,7 +75,6 @@ nixpkgs.config = {
 
 boot = {
   plymouth.enable = false; # prefer systemd output
-  initrd.verbose = true; # show stage 1 progress
   consoleLogLevel = 4; # 0 = emergency only, 4 = warnings and above, 7 = wall of spam
   loader = {
     efi.canTouchEfiVariables = true;

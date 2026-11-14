@@ -643,7 +643,7 @@ home.packages = with pkgs; [
   kdePackages.kcolorchooser # hex color tool GUI
   kdePackages.kdenlive # video editing suite
   kicad # open-source IDE for PCB design
-  libreoffice-fresh # office app suite
+  libreoffice # office app suite
   #moonlight-qt # desktop steaming / remote access BUILD BROKEN 2026-08-13
   mpc # CLI to control MPD
   mpv # simple video player
@@ -658,7 +658,7 @@ home.packages = with pkgs; [
   rmpc # TUI music player with images
   signal-desktop # secure messenger
   spotify # music streaming
-  tagainijisho # japanese dictionary
+  #tagainijisho # japanese dictionary
   thunar # GUI file manager
   vlc # video player
   wezterm # dope-ass terminal emulator
