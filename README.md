@@ -9,6 +9,7 @@ Backup and reproducible config for my personal [NixOS](https://nixos.org) system
 
 ## X210Ai To-do List (hardware):
 - reverse engineer fan control (EC) and make it less stupid
+- !!NEW!! get an [Arrow Lake X210Ai mobo](https://www.tpart.net/newsfiles/x210ai-new-batch-now-available-for-pre-order/)
 - T420 touchpad transplant
 - [coreboot port](https://github.com/WheeledCord/coreboot-x210ai) testing
 - X220 keyboard improvements

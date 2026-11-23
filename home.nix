@@ -644,7 +644,7 @@ home.packages = with pkgs; [
   kdePackages.kdenlive # video editing suite
   kicad # open-source IDE for PCB design
   libreoffice # office app suite
-  #moonlight-qt # desktop steaming / remote access BUILD BROKEN 2026-08-13
+  moonlight-qt # desktop steaming / remote access BUILD BROKEN 2026-08-13
   mpc # CLI to control MPD
   mpv # simple video player
   obsidian # cross-platform notes program
@@ -754,7 +754,7 @@ home.packages = with pkgs; [
   ]))
 
   # AI
-  #python312Packages.huggingface-hub # interface w/ Hugging Face Hub (open-source ML)
+  python312Packages.huggingface-hub # interface w/ Hugging Face Hub (open-source ML)
   llama-cpp # LLM inference
   llama-up # LLM convenience helper
 
